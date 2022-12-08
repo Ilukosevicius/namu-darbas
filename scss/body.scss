@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+body {
+   
+    background: linear-gradient(to right, #23074d, #cc5333);
+    text-align: center;
+    font-family: zen dots;
+    padding: 30px;
+    transition: 0.3s;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    
+}
